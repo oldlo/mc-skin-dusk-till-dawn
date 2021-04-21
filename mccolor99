@@ -1,0 +1,8 @@
+#!/bin/bash
+mc --colors normal=color19,color96:selected=color49,color164:marked=color42,color97:\
+markselect=color44,color161:directory=brightblue,default:executable=brightgreen,default:\
+link=color77,default:device=brightmagenta,default:special=lightgray,default:\
+errors=red,default:reverse=green,default:gauge=green,default:input=white,gray:dnormal=green,gray:\
+dfocus=brightgreen,gray:dhotnormal=cyan,gray:dhotfocus=brightcyan,gray:menu=green,default:menuhot=cyan,\
+default:menusel=green,gray:menuhotsel=cyan,default:helpnormal=cyan,default:editnormal=green,default:editbold=blue,\
+default:editmarked=gray,blue:stalelink=red,default
